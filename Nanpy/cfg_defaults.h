@@ -89,6 +89,6 @@
 #endif
 
 #ifndef USE_MCP41xxx
-#  define USE_MCP41xxx 0
+#  define USE_MCP41xxx 1
 #endif
 
